@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Previous_Button" data-name="Previous Button" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.5 57.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x=".25" y=".25" width="4.86" height="57.06" rx="2.43" ry="2.43" transform="translate(5.36 57.56) rotate(-180)"/>
+  <path class="cls-1" d="m4.45,27.35L45.7,3.53c1.58-.91,3.55.23,3.55,2.05v47.63c0,1.82-1.97,2.96-3.55,2.05L4.45,31.45c-1.58-.91-1.58-3.19,0-4.1Z"/>
+</svg>

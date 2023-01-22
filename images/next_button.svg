@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.5 57.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <g id="Next_button" data-name="Next button">
+    <rect class="cls-1" x="44.39" y=".25" width="4.86" height="57.06" rx="2.43" ry="2.43"/>
+    <path class="cls-1" d="m45.05,27.35L3.8,3.53c-1.58-.91-3.55.23-3.55,2.05v47.63c0,1.82,1.97,2.96,3.55,2.05l41.25-23.82c1.58-.91,1.58-3.19,0-4.1Z"/>
+  </g>
+</svg>
