@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+
+    box-sizing: border-box;
+}
+
+header {
+    margin-bottom: 100px;
+    margin-top: 20px;
+}
+
+body {
+    font-size: 16px;
+    background-color: rgb(105, 105, 105);
+    color: black;
+}
+
+.hidden { display: none; }
+
+.icon-container {
+    text-align: center;
+    background-color: rgb(172, 172, 172);
+}
+
+.wrapper {
+    width: 45%;
+    display: inline-block;
+
+}
+
+.wrapper img { 
+    width: 100px;
+}
