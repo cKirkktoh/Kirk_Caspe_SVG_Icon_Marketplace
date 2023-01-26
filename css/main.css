@@ -38,3 +38,16 @@ footer {
     background-color: black;
     color: rgb(199, 199, 199);
 }
+
+.wrapper h3 {
+    margin: 20px;
+    -webkit-transition: color 1s;
+    transition: color 1s;
+    cursor: pointer;
+    margin: 15px 0;
+}
+.wrapper h3:hover {
+    color: #ff0000;
+}
+
+
